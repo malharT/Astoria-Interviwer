@@ -11,6 +11,6 @@ Astoria_Interviewer is a console based AI interviewing application. I takes in t
 5. Check and edit files company_profile.txt, job_description.txt and resume.txt under data/ if needed.
 6. Set the OpenAI api key in openai_client.py
 8. Run the main.py file:
-    6.1 Run 'python main.py auto' to run interview with the virtual candidate.
-    6.2 Run 'python main.py manual' to run interview with yourself.
+    1. Run 'python main.py auto' to run interview with the virtual candidate.
+    2. Run 'python main.py manual' to run interview with yourself.
 9. Check the interview log file at /interview_log.json
