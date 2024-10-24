@@ -1,0 +1,69 @@
+LinkedIn: linkedin.com/in/malhart
+GitHub: github.com/malhart
+MALHAR THOMBARE
+Glendale, CA
+(951) 222-9776
+malharthombare@gmail.com
+SKILLS
+Languages: Python, Java, C.
+AI/ML: Agentic AI, LLMs, NLP (Knowledge Extraction, Generation, Translation, Summarization, etc.), Machine Learning (Unsupervised,
+Supervised, Reinforcement), Deep Learning (CNN, RNN (LSTMs, Attention), Transformers), Blackbox Optimization (Bayesian Optimization).
+Probabilistic Models (Bayesian Networks, Markov Networks, Markov Chain Monte Carlo), Knowledge Representation & Reasoning.
+• Libraries: NumPy, Pandas, PyTorch, TensorFlow, Keras, SK-Learn, Emukit, HuggingFace.
+•
+•
+PROFESSIONAL EMPLOYMENT
+AI Engineer (Research & Dev.), Beyond Limits, Glendale, CA
+May 2023-Jun 2024
+Built an LLM-based application that helps users encode 100s of pages of industrial knowledge into an executable program.
+• Identified the user’s specific challenges in processing long documents and designed a solution powered by Generative AI.
+• Developed robust prompts, output parsers, and performance analysis experiments for a range of LLMs/Foundation models:
+▪ GPT (3.5, 4, 4 turbo), Claude 3 (Haiku, Sonnet, Opus), Mistral 7B, Mixtral 8x7B, Llama 2(7B, 13B, 70B).
+• Designed and built an automatic syntactic and semantic check for quality assessment of the AI-generated code.
+• Developed a multi-agent technique that generates programs longer than 4000 tokens (current limitation of LLM APIs).
+• Further improved code generation with verification and automatic correction by post-processing AI-generated code.
+AI Researcher & Developer, CereLabs, Mumbai, India
+Jul 2017 – Jul 2021
+Intelligent System for Corporate knowledge acquisition and querying. (NLP, Graph Databases: Neo4j, OrientDB)
+• Designed and developed a platform to extract information from unstructured corporate data (text, tables), store it as
+retrievable knowledge, and perform reasoning and inferencing over the knowledge to answer questions.
+• Developed a chatbot interface that enabled users to interact with the Knowledge using the natural language.
+• Developed a programming paradigm to build custom knowledge extraction and inferencing pipelines.
+• As part of pipeline builder, implemented image-to-text (YOLO, tesseract), text cleaning, text-to-knowledge graph (OpenIE
+libraries), reasoning over knowledge graph, and automated common-sense acquisition modules (OpenIE libraries).
+• Served these modules in a service-oriented architecture with an ability to integrate user-built modules seamlessly.
+Researcher & Developer Intern, CereLabs, Mumbai, India
+Jun– Aug 2016
+Learning Ontology from natural language (using Python)
+st
+• Based on word frequency and occurrence pattern, created a technique to learn ontology from text (won 1 prize).
+ACADEMIC RESEARCH EMPLOYMENT
+Graduate Student Researcher, R-LAIR UCR, Riverside, CA
+Apr 2022 – Mar 2023
+Improving Bayesian Optimization for Quantum Material Control (Master’s Thesis).
+• Developed a 10x faster variant of BO to find an electromagnetic signal that would control the quantum state of an atom (in
+the NIC-CAGE simulator).
+• Designed an experimentation framework to test multiple BO variations on tens of thousands of quantum system simulations
+on a compute cluster.
+Graduate Student Researcher, VISLab UCR, Riverside, CA
+Jun 2022 – May 2023
+Emotion-guided difficulty adjustment of a videogame which helps memory-affected patients.
+• Based on small existing data, developed a simulator of player’s performance and facial expressions (Stochastic Processes).
+• Successfully demonstrated Meta Reinforcement Learning (A2C)’s application to solve the problem.
+• Collaborated with the facial expression recognition team and the psychology department’s team.
+EDUCATION
+University of California, Riverside, CA
+Sep 2021 – Mar 2023
+• M.S. in Computer Science
+Coursework: Probabilistic Models, Artificial Intelligence, Machine Learning, Deep Learning, Data Mining.
+University of Mumbai, Mumbai, India
+Jun 2013 – May 2017
+• B.E. in Information Technology
+Coursework: Data mining and business intelligence, Automata Systems, Intelligent Systems, Cloud Computing.
+PROJECTS
+• Diffusion Language Models for text summarization (2023). Trained a large text denoising model and trained a small guide
+model to guide the large model for summarization saving fine-tuning efforts on the large model.
+• Text Summarization Using Transformers, Cross-lingual (2022). Fine-tuned BART for English-to-English and mT5 for English-
+to-German, and German-to-English summarization using PyTorch.
+• Filling Missing Values with Bayesian network, MCAR (2022). Implemented Expectation Maximization and Gradient Descent
+in Python to fill missing values in the data, and compared these two algorithms for their accuracy and speed.

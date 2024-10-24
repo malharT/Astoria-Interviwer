@@ -1,0 +1,82 @@
+{
+    "company_profile": "Astoria AI (http://www.astoria.ai) is an early-stage startup focused on building human-centered global talent intelligence platform powered by Artificial Intelligence. At Astoria AI we believe that people have indispensable human need to realize their full potential. Our mission is to help people to unlock their potential and help organizations to attract those people and build sustained practices of retaining motivated and most qualified talent. ",
+    "job_description": "Job Summary:\n\nWe are seeking a talented software developer with 6+ years of experience to join our team. The ideal candidate will be responsible for designing, developing, and maintaining software applications using variety of methods including conversational AI, vector search & embeddings, personalization and recommendation systems with ML/LLM-based tools and APIs. They will work closely with the product team to ensure that software applications are designed to meet user needs and business goals. \n\n\n\nCompensation includes equity shares until MVP launch and salary after. Become a part of our team and our success story. \n\n\n\nResponsibilities: \n\n- Develop software applications from scratch using LLM-based tools and APIs (both closed- and open-source) \n\n- Collaborate with other members of our dev team on building reliable and scalable data pipelines for the platform\n\n- Work with the product team to develop application features according to project scope and requirements \n\n- Test and debug software applications to ensure high-quality, reliable software \n\n- Continuously improve the performance and scalability of software applications \n\n- Stay up-to-date with emerging LLM-based tools, techniques, and technologies \n\n- Collaborate with other developers to integrate LLM-based tools into the software development process \n\n \n\nRequirements: \n\n - At least 6+ years of experience in software development, with recent focus on Prompt Engineering and LLM-based tools and APIs\n\n- Working knowledge of prompt programming (DSPy and other frameworks)\n\n- Bachelor's degree or higher in Computer Science or related field \n\n- Strong programming skills in Python, Typescript or Go\n\n- Experience with ChatGPT and other LLM-based tools, including pre-trained models and fine-tuning techniques\n\n- Familiarity with software development best practices, including version control, automated testing, and continuous integration/continuous deployment (CI/CD) \n\n- Excellent problem-solving skills and attention to detail \n\n- Ability to work independently and as part of a team in a quick-paced environment \n\n- Strong communication skills, both written and verbal \n\n \n\nProject experience requirements: \n\n- Proven ability and track record of building and deploying conversational AI systems (chatbots, virtual assistants) for multi-turn real-time user interactions\n\n- Experience in NLP, NLU, and NLG to handle complex user queries and provide intelligent, contextual responses\n\n- Knowledge of vector search and retrieval augmented generation (RAG) techniques to build graphs and search through vast amounts of user data\n\n\n\nIf you are a motivated and innovative developer who is passionate about leveraging LLM-based tools to create cutting-edge software applications, we would love to hear from you. This is an exciting opportunity to join a fast-growing startup and make a meaningful impact on the talent management industry.",
+    "resume": "LinkedIn: linkedin.com/in/malhart\nGitHub: github.com/malhart\nMALHAR THOMBARE\nGlendale, CA\n(951) 222-9776\nmalharthombare@gmail.com\nSKILLS\nLanguages: Python, Java, C.\nAI/ML: Agentic AI, LLMs, NLP (Knowledge Extraction, Generation, Translation, Summarization, etc.), Machine Learning (Unsupervised,\nSupervised, Reinforcement), Deep Learning (CNN, RNN (LSTMs, Attention), Transformers), Blackbox Optimization (Bayesian Optimization).\nProbabilistic Models (Bayesian Networks, Markov Networks, Markov Chain Monte Carlo), Knowledge Representation & Reasoning.\n• Libraries: NumPy, Pandas, PyTorch, TensorFlow, Keras, SK-Learn, Emukit, HuggingFace.\n•\n•\nPROFESSIONAL EMPLOYMENT\nAI Engineer (Research & Dev.), Beyond Limits, Glendale, CA\nMay 2023-Jun 2024\nBuilt an LLM-based application that helps users encode 100s of pages of industrial knowledge into an executable program.\n• Identified the user’s specific challenges in processing long documents and designed a solution powered by Generative AI.\n• Developed robust prompts, output parsers, and performance analysis experiments for a range of LLMs/Foundation models:\n▪ GPT (3.5, 4, 4 turbo), Claude 3 (Haiku, Sonnet, Opus), Mistral 7B, Mixtral 8x7B, Llama 2(7B, 13B, 70B).\n• Designed and built an automatic syntactic and semantic check for quality assessment of the AI-generated code.\n• Developed a multi-agent technique that generates programs longer than 4000 tokens (current limitation of LLM APIs).\n• Further improved code generation with verification and automatic correction by post-processing AI-generated code.\nAI Researcher & Developer, CereLabs, Mumbai, India\nJul 2017 – Jul 2021\nIntelligent System for Corporate knowledge acquisition and querying. (NLP, Graph Databases: Neo4j, OrientDB)\n• Designed and developed a platform to extract information from unstructured corporate data (text, tables), store it as\nretrievable knowledge, and perform reasoning and inferencing over the knowledge to answer questions.\n• Developed a chatbot interface that enabled users to interact with the Knowledge using the natural language.\n• Developed a programming paradigm to build custom knowledge extraction and inferencing pipelines.\n• As part of pipeline builder, implemented image-to-text (YOLO, tesseract), text cleaning, text-to-knowledge graph (OpenIE\nlibraries), reasoning over knowledge graph, and automated common-sense acquisition modules (OpenIE libraries).\n• Served these modules in a service-oriented architecture with an ability to integrate user-built modules seamlessly.\nResearcher & Developer Intern, CereLabs, Mumbai, India\nJun– Aug 2016\nLearning Ontology from natural language (using Python)\nst\n• Based on word frequency and occurrence pattern, created a technique to learn ontology from text (won 1 prize).\nACADEMIC RESEARCH EMPLOYMENT\nGraduate Student Researcher, R-LAIR UCR, Riverside, CA\nApr 2022 – Mar 2023\nImproving Bayesian Optimization for Quantum Material Control (Master’s Thesis).\n• Developed a 10x faster variant of BO to find an electromagnetic signal that would control the quantum state of an atom (in\nthe NIC-CAGE simulator).\n• Designed an experimentation framework to test multiple BO variations on tens of thousands of quantum system simulations\non a compute cluster.\nGraduate Student Researcher, VISLab UCR, Riverside, CA\nJun 2022 – May 2023\nEmotion-guided difficulty adjustment of a videogame which helps memory-affected patients.\n• Based on small existing data, developed a simulator of player’s performance and facial expressions (Stochastic Processes).\n• Successfully demonstrated Meta Reinforcement Learning (A2C)’s application to solve the problem.\n• Collaborated with the facial expression recognition team and the psychology department’s team.\nEDUCATION\nUniversity of California, Riverside, CA\nSep 2021 – Mar 2023\n• M.S. in Computer Science\nCoursework: Probabilistic Models, Artificial Intelligence, Machine Learning, Deep Learning, Data Mining.\nUniversity of Mumbai, Mumbai, India\nJun 2013 – May 2017\n• B.E. in Information Technology\nCoursework: Data mining and business intelligence, Automata Systems, Intelligent Systems, Cloud Computing.\nPROJECTS\n• Diffusion Language Models for text summarization (2023). Trained a large text denoising model and trained a small guide\nmodel to guide the large model for summarization saving fine-tuning efforts on the large model.\n• Text Summarization Using Transformers, Cross-lingual (2022). Fine-tuned BART for English-to-English and mT5 for English-\nto-German, and German-to-English summarization using PyTorch.\n• Filling Missing Values with Bayesian network, MCAR (2022). Implemented Expectation Maximization and Gradient Descent\nin Python to fill missing values in the data, and compared these two algorithms for their accuracy and speed.",
+    "objectives": [
+        {
+            "title": "Experience with LLM-based Tools",
+            "description": "Discuss your hands-on experience with various LLM-based tools and APIs, specifically focusing on any projects where you implemented prompt engineering or integrated these tools into a software application.",
+            "questions": [
+                "Can you describe a specific project where you implemented prompt engineering with LLM-based tools, and what challenges did you face during that?",
+                "What experience do you have in integrating conversational AI systems into software applications? Could you share any examples of your work with multi-turn user interactions?",
+                "How do you approach the testing and debugging process for AI-driven applications, specifically those utilizing LLMs?"
+            ],
+            "discussions": [
+                {
+                    "role": "assistant",
+                    "content": "Let's start the discussion about your experience with LLM-based tools.\n\nCan you describe a specific project where you implemented prompt engineering with LLM-based tools, and what challenges did you face during that?"
+                },
+                {
+                    "role": "user",
+                    "content": "I built an knowledge extractor."
+                },
+                {
+                    "role": "assistant",
+                    "content": "That's interesting! Could you elaborate on how you implemented prompt engineering in the knowledge extractor project? What specific challenges did you encounter during this process?"
+                },
+                {
+                    "role": "user",
+                    "content": "chain of thoughts"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Incorporating a \"chain of thoughts\" strategy is indeed a valuable way to enhance the performance of LLMs. Could you explain how you structured this approach in your project, and what were the outcomes? Additionally, what specific challenges did you face while implementing this method?"
+                },
+                {
+                    "role": "user",
+                    "content": "I don't want to continue."
+                }
+            ]
+        },
+        {
+            "title": "Building Conversational AI Systems",
+            "description": "Share a detailed overview of a conversational AI system you have developed, emphasizing the design choices made for multi-turn user interactions and how you ensured a seamless user experience.",
+            "questions": [
+                "Can you describe the design process for the conversational AI system you developed at CereLabs, particularly focusing on the approach you took to handle multi-turn interactions?",
+                "What specific strategies did you implement to ensure a seamless user experience in your chatbot application, and how did you evaluate its performance?",
+                "Can you give an example of a challenging user query that your conversational AI system successfully managed, and explain the techniques you used to achieve contextual understanding?"
+            ],
+            "discussions": []
+        },
+        {
+            "title": "Data Pipelines and Scalability",
+            "description": "Explain your approach to building reliable and scalable data pipelines in past projects, including any specific tools or technologies you utilized.",
+            "questions": [
+                "Can you describe a past project where you built a data pipeline from scratch? What tools and technologies did you use, and how did you ensure its reliability and scalability?",
+                "In your previous experience, how have you approached the integration of LLM-based tools into data pipelines? Could you provide a specific example of a technique or method you implemented?",
+                "Can you elaborate on your experience with vector search and retrieval augmented generation techniques? How did you apply these concepts in your previous projects, and what impact did they have on data retrieval efficiency?"
+            ],
+            "discussions": []
+        },
+        {
+            "title": "Problem-Solving Techniques",
+            "description": "Provide an example of a complex problem you faced in software development, how you approached solving it, and the outcome of your solution.",
+            "questions": [
+                "Can you describe a complex problem you've faced while working on an LLM-based application, how you approached solving it, and what was the outcome?",
+                "In your previous roles, how did you manage collaboration with product teams to ensure that the software you developed met user needs and business goals?",
+                "Can you share an experience where you built a conversational AI system and detail the techniques you used to handle complex user queries effectively?"
+            ],
+            "discussions": []
+        },
+        {
+            "title": "Collaboration with Product Teams",
+            "description": "Describe a time when you collaborated closely with the product team. How did you ensure that the software developed met user needs and business goals?",
+            "questions": [
+                "Can you describe a specific project where you collaborated closely with a product team? How did you ensure that the end product aligned with user needs and business objectives?",
+                "What strategies do you use to communicate effectively with product teams during the software development process? Could you give an example of a challenge you faced during such collaboration and how you addressed it?",
+                "In your experience, how do you incorporate user feedback into software design? Can you provide an example of a feature that was developed based on user input?"
+            ],
+            "discussions": []
+        }
+    ]
+}

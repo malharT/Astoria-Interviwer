@@ -1,0 +1,18 @@
+[tool.poetry]
+package-mode = false
+name = "astoria-interviewer"
+version = "0.1.0"
+description = ""
+authors = ["Malhar Manohar Thombare <malharthombare@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.9.2"
+openai = "^1.52.0"
+streamlit = "^1.39.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
